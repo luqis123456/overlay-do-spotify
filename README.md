@@ -1,6 +1,6 @@
-# 🎵 Overlay Leve do Spotify para Jogos de PC
+# 🎵 Overlay Leve do Spotify para uso no dia a dia
 
-Um overlay de miniplayer moderno, translúcido e ultraleve do Spotify desenvolvido para jogos de PC (**League of Legends**, **Valorant**, **Counter-Strike 2**, **Apex Legends** e outros). Inspirado no miniplayer do aplicativo desktop do Spotify e em overlays famosos como **Porofessor** e **Blitz.gg**.
+Um overlay de miniplayer moderno, translúcido e ultraleve do Spotify desenvolvido para jogos de PC (**League of Legends**, **Valorant**, **Counter-Strike 2** e outros). Inspirado no miniplayer do aplicativo desktop do Spotify e em overlays famosos como **Overwolf** e **Blitz.gg**.
 
 ---
 
